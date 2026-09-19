@@ -1,9 +1,6 @@
+venv/
+.env
 __pycache__/
 *.pyc
-.env
-.venv/
-venv/
-*.egg-info/
-reports/
-codelens_output/
-.codelens_cache.json
+models/
+.pytest_cache/
